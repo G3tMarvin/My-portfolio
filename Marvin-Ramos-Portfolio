@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marvin Ramos | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Marvin Ramos</h1>
+    <p>Computer Science Graduate | Operations & Technology</p>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        Computer Science graduate from Middlesex University with experience in 
+        admissions operations, customer relations, and technical problem solving.
+        Passionate about technology, data systems, and building efficient processes.
+    </p>
+</section>
+
+<section id="skills">
+    <h2>Technical Skills</h2>
+
+    <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>C++</li>
+        <li>JavaScript</li>
+        <li>HTML & CSS</li>
+    </ul>
+
+</section>
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<div class="project">
+
+<h3>Demo Website</h3>
+
+<p>
+Built a responsive demo website using HTML, CSS, JavaScript and Python.
+Focused on UI layout, functionality, and debugging optimisation.
+</p>
+
+</div>
+
+<div class="project">
+
+<h3>Game Prototype</h3>
+
+<p>
+Collaborated in a team to build a game prototype using Racket,
+demonstrating teamwork and remote development practices.
+</p>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: Marviniramos200@gmail.com</p>
+
+<p>
+LinkedIn:
+<a href="https://linkedin.com/in/contactmarvinramos">
+linkedin.com/in/contactmarvinramos
+</a>
+</p>
+
+</section>
+
+</body>
+</html>
